@@ -16,6 +16,7 @@ browser.visit("http://localhost:3000/").
 //    assert.equal(browser.text("title"), "first");
 //    console.log("done");
     process.exit(0);
+  
   });
 
 
