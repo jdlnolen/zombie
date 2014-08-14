@@ -6,6 +6,9 @@
 #install meteor
 curl https://install.meteor.com | /bin/sh
 
+#install spiderable package
+meteor add spiderable
+
 #installing meteorite
 npm install -g meteorite
 
