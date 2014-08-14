@@ -1,3 +1,3 @@
 test: 
-	./nodeshell.js
+	node nodeshell.js
 .PHONY: test
