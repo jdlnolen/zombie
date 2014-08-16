@@ -1,3 +1,3 @@
 test: 
-	mocha tests/functional/first.js
+	mocha $$MOCHA_OPTIONS
 .PHONY: test
